@@ -1,0 +1,38 @@
+
+.btn {
+    padding: 5px 7px;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn.Approved {
+    background-color: #e5faf2;
+    color: #3bb077;
+}
+
+.btn.Declined {
+    background-color: #fff0f1;
+    color: #d95087;
+
+}
+
+.btn.Edit{
+    border: none;
+        border-radius: 10px;
+        padding: 5px 10px;
+        background-color: #3bb077;
+        color: white;
+                font-size: 1.2rem;
+        cursor: pointer;
+        margin-right: 20px;
+}
+.btn.Edit:hover{
+    background-color: transparent;
+        border: 1px solid #3bb077;
+        color: #3bb077;
+}
+
+.btn.Pending {
+    background-color: #ebf1fe;
+    color: #2a7ade;
+}
