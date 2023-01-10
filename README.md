@@ -1,4 +1,4 @@
-# React Dashboard visual app - Sidebar link Home, Users, Products works for now
+# React Dashboard visual app - Sidebar links - Home, Users, Products works for now
 
 #Link
 https://react-js-dashboard-application.netlify.app/
